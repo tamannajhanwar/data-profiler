@@ -1,0 +1,12 @@
+Customer_ID,Age,Gender,Income,Purchases,Churn,Irrelevant_Column
+1,22.0,Male,25000,5.0,No,A
+2,25.0,Female,30000,7.0,Yes,B
+3,,Female,28000,3.0,No,C
+4,35.0,Male,,8.0,No,D
+5,40.0,Female,50000,10.0,Yes,E
+6,29.0,Male,32000,6.0,No,F
+7,31.0,Female,35000,,Yes,G
+8,,Male,40000,9.0,No,H
+9,28.0,Female,27000,4.0,No,I
+10,45.0,Male,60000,12.0,Yes,J
+10,45.0,Male,60000,12.0,Yes,J
